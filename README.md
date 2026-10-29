@@ -34,6 +34,14 @@
 
 Cada nota está enlazada con `[[wikilinks]]`, tiene **metadatos YAML** y se organiza en una estructura PARA modificada. El resultado: un grafo neural donde todo se conecta.
 
+<p align="center">
+  <img src="assets/graph-preview.png" alt="CyberCortex Knowledge Graph" width="800"/>
+</p>
+
+<p align="center">
+  <em>Vista del grafo de conocimiento — cada color representa un dominio diferente</em>
+</p>
+
 ---
 
 ## 📂 Estructura del Vault
